@@ -1,0 +1,25 @@
+{
+  "cSpell.words": [
+    "backrefs",
+    "bcmath",
+    "django",
+    "djangorestframework",
+    "djangoserver",
+    "ghostscript",
+    "hostvars",
+    "imagick",
+    "libapache",
+    "lineinfile",
+    "mbstring",
+    "mysql",
+    "mysqld",
+    "nohup",
+    "pymysql",
+    "runserver",
+    "startproject",
+    "venv",
+    "virtualenv",
+    "wordpress"
+  ],
+  "ansible.python.interpreterPath": "/bin/python"
+}

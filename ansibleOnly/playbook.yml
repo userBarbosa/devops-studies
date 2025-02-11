@@ -1,0 +1,12 @@
+---
+- name: Setup WordPress
+  vars_files:
+    - group_vars/wordpress.yml
+  hosts: wordpress
+  roles:
+    - wordpress
+
+- name: Setup MySQL
+  hosts: database
+  roles:
+    - mysql
